@@ -4,9 +4,11 @@
   <h1> <b> Welcome! ✌ </b> </h1>
   </div>
 
-⚙️ Trabalho atualmente com SAP SuccessFactors EC <br>
-📚 Estudando Javascript<br>
-🏘️ Residente em São Paulo/Brasil
+<h3> 
+  ⚙️ Trabalho atualmente com SAP SuccessFactors EC <br> 
+  📚 Estudando Javascript<br> 
+  🏘️ Residente em São Paulo/Brasil 
+</h3>
 
 ##
 
