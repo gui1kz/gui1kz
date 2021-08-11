@@ -5,7 +5,7 @@
   </div>
 
 <h3> 
-  ⚙️ Trabalho atualmente com SAP SuccessFactors EC <br> <br>
+  ⚙️ SAP SuccessFactors EC <br> <br>
   📚 Estudando Javascript<br> <br>
   🏘️ Residente em São Paulo/Brasil 
 </h3>
